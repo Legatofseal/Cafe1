@@ -5,7 +5,7 @@ import javax.xml.ws.Endpoint;
 
 /**
  * Created by Legat on 6/12/2016.
- */
+ *///
 @WebService()
 public class HelloWorld {
   @WebMethod
